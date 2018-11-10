@@ -1,3 +1,5 @@
 Primeira linha do arquivo
 
-Outra alteração no nosso arquivo
+Outra alteração no nosso arquivo....
+
+Alteração para ser mantida ao realizar o RESET...
