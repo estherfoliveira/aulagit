@@ -1,0 +1,43 @@
+Git Config;
+
+Git init;
+
+Git status;
+
+Git add;
+
+Git commit;
+
+Git log;
+
+Git diff;
+
+Git checkout;
+
+Git revert;
+
+Git reset;
+
+Git reflog;
+
+Git stash;
+
+Git tag;
+
+Git branch;
+
+Git blame;
+
+Git cherry-pick;
+
+Git merge;
+
+Git clone;
+
+Touch;
+
+Git PUSH;
+
+Git REMOTE;
+
+Git PULL;
